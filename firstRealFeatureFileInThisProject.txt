@@ -1,1 +1,3 @@
 this file was initially created by Hopbit
+
+We can use this repo to colaborate on some Python games from the page I sent you. :-)
