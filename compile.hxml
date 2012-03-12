@@ -1,5 +1,5 @@
-#-swf9 helloAirHockey.swf
-#-main HelloAirHockey
+-swf9 helloAirHockey.swf
+-main HelloAirHockey
 
--swf9 test.swf
--main Test
+#-swf9 test.swf
+#-main Test
